@@ -12,6 +12,11 @@ public class MainClass {
 	
 	public static void display(){
 		System.out.println("Hello! Welcome To GIT!");
+		System.out.println("MyBranch2 - update.");
+		System.out.println("MyBranch2 - update1.");
+		System.out.println("MyBranch2 - update2.");
+		System.out.println("MyBranch2 - update3.");
+		
 	}
 
 }
