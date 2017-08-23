@@ -10,6 +10,7 @@ public class SalesClass {
 	
 	public void greetings(){
 		System.out.println("Good Morning!");
+		System.out.println("Lets have a break!");
 	}
 
 }
