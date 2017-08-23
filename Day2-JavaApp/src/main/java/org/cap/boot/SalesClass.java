@@ -11,6 +11,9 @@ public class SalesClass {
 	public void greetings(){
 		System.out.println("Good Morning!");
 		System.out.println("Lets have a break!");
+		System.out.println("Good Afternoon!");
+		System.out.println("Good Evening!");
+		System.out.println("Good Day!");
 	}
 
 }
