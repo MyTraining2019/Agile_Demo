@@ -2,10 +2,15 @@ package org.cap.boot;
 
 public class SalesClass {
 	
+	int[] arr={1,2,3,4,5,6,7};
+	
 	public void show(){
-		int[] arr={1,2,3,4,5,6,7};
-		for(int i=0;i<arr.length;i++)
-			System.out.println(arr[i]);
+		int sum=0;
+		for(int num:arr){
+			sum+=num;
+			System.out.println(num);
+		}
+		System.out.println("Sum:" + sum);
 	}
 	
 	public void greetings(){
